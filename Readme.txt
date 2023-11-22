@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+Thank you for visiting my project
 
-Template Name: MyPortfolio
-Template URL: https://bootstrapmade.com/myportfolio-bootstrap-portfolio-website-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Here is the test link:https://hl2802.github.io/CoGiaoNho./
